@@ -25,3 +25,5 @@ Execution of actual Git commands (`add`, `commit`, `push`) is **not yet enabled*
 ## 🚀 Release Info
 
 A **Windows executable** is available, built using **PyInstaller**.
+
+https://github.com/user-attachments/assets/80c83c6b-6e48-471f-8bf0-7d7adc10a89e
