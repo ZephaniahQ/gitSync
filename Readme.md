@@ -1,11 +1,13 @@
-https://github.com/user-attachments/assets/80c83c6b-6e48-471f-8bf0-7d7adc10a89e
-
-
 # gitSync/watchDawg
 
 **watchDawg** is a filesystem event monitoring tool built with Python’s `watchdog` library. It monitors file system changes, logs them, and generates Git commands to track modifications.
 
 > ⚠️ **Note:** Git commands are currently only being generated, not executed.
+
+---
+
+## Demo
+https://github.com/user-attachments/assets/80c83c6b-6e48-471f-8bf0-7d7adc10a89e
 
 ---
 
